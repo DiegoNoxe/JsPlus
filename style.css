@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+   background-image: linear-gradient(to right, rgb(10, 117, 117), rgba(28, 21, 160, 0.897));
+   color: rgb(0, 248, 236);
+}
+       input{
+           margin-top: 2px;
+           font: normal 11pt Arial;
+           width: 150px;
+           font-size: 15px;     
+       }
+       div#sla{
+           margin-top: 90px;
+           text-align: center;
+           font-size: 50px;
+           font-weight: bolder;
+           color: rgb(253, 187, 101);
+       }
+   
+       h1{
+           font-size: 50pt;
+           margin-bottom: 50px;
+           margin-top: 10%;
+           color: white;
+           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+           text-align: center;
+       }
+
+       .margem{
+           text-align: center;
+       }
+
+       .num{
+           color: rgb(15, 173, 76);
+       }
+       .slax{
+           color: rgb(255, 255, 255);
+       }
+       .hope{
+           color: aquamarine;
+       }
+       
